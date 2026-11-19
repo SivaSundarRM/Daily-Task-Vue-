@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
-import LoanApplication from '../views/Loan/LoanApplication.vue'
+import ApplicantDetails from '../views/ApplicantDetails/EditApplicantDetails.vue'
+import SelectApplicant from '../views/ApplicantDetails/SelectApplicant.vue'
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -18,9 +19,14 @@ const router = createRouter({
       component: () => import('../views/AboutView.vue'),
     },
     {
-      path:'/LoanApplication',
+      path:'/edit',
       name:'LoanApplication',
-      component:LoanApplication
+      component:ApplicantDetails
+    },
+    {
+      path:'/select',
+      name:'SelectApplicant',
+      component:SelectApplicant
     }
   ],
 })
