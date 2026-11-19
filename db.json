@@ -1,0 +1,82 @@
+{
+  "applicantDetails": [
+    {
+      "loanId": "a1382e19d6411a9d",
+      "firsName": "Siva",
+      "lastName": "Sundar",
+      "email": "sivaramachandran@gmail.com",
+      "mobileNumber": 8309940189,
+      "dob": "04/12/2004",
+      "installationAddress": [
+        {
+          "street1": "8-11 govt hospital road",
+          "street2": "8-11 govt hospital road",
+          "city": "Kalidindi",
+          "state": "Andhra Pradesh",
+          "pincode": 521344
+        }
+      ],
+      "billinAddress": [
+        {
+          "street1": "8-11 govt hospital road",
+          "street2": "8-11 govt hospital road",
+          "city": "Kalidindi",
+          "state": "Andhra Pradesh",
+          "pincode": 521344
+        }
+      ]
+    },
+    {
+      "loanId": "4635f961d82cab94",
+      "firsName": "Sai",
+      "lastName": "Kishore",
+      "email": "saikishore@gmail.com",
+      "mobileNumber": 8309940289,
+      "dob": "12/10/2004",
+      "installationAddress": [
+        {
+          "street1": "2-3 chintalpudi village",
+          "street2": "2-3 chintalpudi village",
+          "city": "Eluru",
+          "state": "Andhra Pradesh",
+          "pincode": 512131
+        }
+      ],
+      "billinAddress": [
+        {
+          "street1": "2-3 chintalpudi village",
+          "street2": "2-3 chintalpudi village",
+          "city": "Eluru",
+          "state": "Andhra Pradesh",
+          "pincode": 512131
+        }
+      ]
+    },
+    {
+      "loanId": "37016162df3c9c8b",
+      "firsName": "Munvar",
+      "lastName": "Basha",
+      "email": "munvarbasha@gmail.com",
+      "mobileNumber": 9346342290,
+      "dob": "30/06/2003",
+      "installationAddress": [
+        {
+          "street1": "2-21, Ramalayam street, kalidindi",
+          "street2": "2-21, Ramalayam street, kalidindi",
+          "city": "Kalidindi",
+          "state": "Andhra Pradesh",
+          "pincode": 521344
+        }
+      ],
+      "billinAddress": [
+        {
+          "street1": "2-21, Ramalayam street, kalidindi",
+          "street2": "2-21, Ramalayam street, kalidindi",
+          "city": "Kalidindi",
+          "state": "Andhra Pradesh",
+          "pincode": 521344
+        }
+      ]
+    }
+  ]
+}
